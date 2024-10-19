@@ -1,7 +1,7 @@
 HUBERT GĄSIOR - MATEUSZ SZCZĘŚNIAK
 
-Pomysł :
-
+Projekt :          Labyrinth - gra w stylu mini-gofa, polegająca na umieszczeniu kuli w centralnym miejscu planszy odpowiednio omijając przeszkody.
+   
 
 Spis treści : 
 
