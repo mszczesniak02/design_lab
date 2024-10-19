@@ -1,0 +1,10 @@
+7-14.10.2024 : 
+  (H+M) Inicjacja projektu 
+14-21.10.2024 : 
+  (H+M) Wstępne założenia projektowe - rodzaj gry, możliwe technologie, techniki wykonania
+  (H+M) Sprawozdanie - "Analiza i porównanie protokołów Wi-Fi oraz Ethernet"
+
+
+(M)   - Mateusz Szczęśniak
+(H)   - Hubert Gądzior
+(H+M) - Hubert Gądzior oraz Mateusz Szczęśniak
