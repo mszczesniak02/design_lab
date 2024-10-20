@@ -6,5 +6,5 @@
 
 
 (M)   - Mateusz Szczęśniak
-(H)   - Hubert Gądzior
-(H+M) - Hubert Gądzior oraz Mateusz Szczęśniak
+(H)   - Hubert Gąsior
+(H+M) - Hubert Gąsior oraz Mateusz Szczęśniak
