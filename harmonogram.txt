@@ -1,8 +1,12 @@
-7-14.10.2024 : 
+7-13.10.2024 : 
   (H+M) Inicjacja projektu 
-14-21.10.2024 : 
+14-20.10.2024 : 
   (H+M) Wstępne założenia projektowe - rodzaj gry, możliwe technologie, techniki wykonania
   (H+M) Sprawozdanie - "Analiza i porównanie protokołów Wi-Fi oraz Ethernet"
+21.10 - 04.11.2024 :
+  (H+M) Opracowanie oraz analiza potrzebnego sprzętu, zebranie sprzętu, początkowy projekt koncepcyjny 
+  
+
 
 
 (M)   - Mateusz Szczęśniak
