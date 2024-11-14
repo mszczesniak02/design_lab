@@ -5,7 +5,12 @@
   (H+M) Sprawozdanie - "Analiza i porównanie protokołów Wi-Fi oraz Ethernet"
 21.10 - 04.11.2024 :
   (H+M) Opracowanie oraz analiza potrzebnego sprzętu, zebranie sprzętu, początkowy projekt koncepcyjny 
-  
+5.11.2024 - 30.11.2024 :
+  (M)   Rozpoczęcie projektowania konstrukcji mechaniczej projektu za pomocą oprogramowania NX SIEMENS
+  (H+M) Utworzenie sprawozdania projektu na platformie Overleaf
+  (H+M) Wypożyczenie sprzętu : 
+                                1x płytka Raspberry Pi Pico
+                                2x moduł Bluetooth - HC-06-ZS-040
 
 
 
