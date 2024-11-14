@@ -9,7 +9,7 @@
   (M)   Rozpoczęcie projektowania konstrukcji mechaniczej projektu za pomocą oprogramowania NX SIEMENS
   (H+M) Utworzenie sprawozdania projektu na platformie Overleaf
   (H+M) Wypożyczenie sprzętu : 
-                                1x płytka Raspberry Pi Pico
+                                1x płytka - Raspberry Pi Pico
                                 2x moduł Bluetooth - HC-06-ZS-040
 
 
