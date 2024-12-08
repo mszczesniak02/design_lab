@@ -11,7 +11,10 @@
   (H+M) Wypożyczenie sprzętu : 
                                 1x płytka - Raspberry Pi Pico
                                 2x moduł Bluetooth - HC-06-ZS-040
-
+8.12.2024 :
+  (H)   Zapewnienie reszty sprzętu
+  (H)   Oprogramowanie silników krokowych 180 oraz 360 stopni, joystick
+  (M)   Komunikacja Bluetooth 
 
 
 (M)   - Mateusz Szczęśniak
