@@ -62,6 +62,8 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
 
 ### Schemat połączeń układu master
 
+![Schemat połączeń master](img/master.png)
+
 **Joystick ST1079:**
 - GND → GND
 - +5V → 3.3V
@@ -75,6 +77,8 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
 - Vcc → Zewnętrzne źródło 5V
 
 ### Schemat połączeń układu slave
+
+![Schemat połączeń master](img/slave.png)
 
 **Moduł Bluetooth HC-06:**
 - Rx → GP17
@@ -95,6 +99,5 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
 ---
 
 ## Software
-(Szczegóły implementacji oprogramowania, struktura kodu i instrukcje użytkowania do uzupełnienia.)
 
 ---
