@@ -54,7 +54,7 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
 - **GND**: GND
 
 ### Plansza
-Plansza, na której odbywa się rozgrywka.
+
 
 ---
 
