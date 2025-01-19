@@ -13,8 +13,16 @@
                                 2x moduł Bluetooth - HC-06-ZS-040
 8.12.2024 :
   (H)   Zapewnienie reszty sprzętu
-  (H)   Oprogramowanie silników krokowych 180 oraz 360 stopni, joystick
+  (H)   Oprogramowanie silników krokowych 180 oraz 360 stopni
   (M)   Komunikacja Bluetooth 
+
+30.12.2024 - 08.01.2025 :
+  (M)   Stworzenie planszy gry, zaprogramowanie zakresów operacji silników w połączeniu z Bluetooth
+  (H+M) Złączenie powstałych modułów w całość oraz poprawa zakresów operowania silników, stworzenie aplikacji
+  (H)   Stworzenie interfejsu akcelerometru w aplikacji
+
+20.01.2025 :
+  (H+M) Ukończenie sprawozdania oraz prezentacja projektu
 
 
 (M)   - Mateusz Szczęśniak
