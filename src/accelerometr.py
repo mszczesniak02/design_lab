@@ -43,7 +43,6 @@ def detect_command(uart):
 
 def is_utf8(data):
     try:
-        # Sprawdzenie, czy dane można przekonwertować na UTF-8
         data.decode('utf-8')
         return True
     except UnicodeError:
@@ -53,10 +52,6 @@ def main():
     print("Startowanie...\n")
     uart = UART(UARTNUM, BAUDRATE )                         
     uart.init(tx=Pin(TXPIN), rx=Pin(RXPIN) )
-    x_val_array = [0] * 100 
-    index_x = 0
-    y_val_array = [0] * 100 
-    index_y = 0
     
     # set initial X engine
     XPWM.duty_u16(XSTOP)
