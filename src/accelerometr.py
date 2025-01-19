@@ -57,7 +57,6 @@ def main():
     XPWM.duty_u16(XSTOP)
     time.sleep(0.5)
     YPWM.duty_u16(YMID)
-    curr = YMID
     
     print("Startowanie: OK")
     while True:
