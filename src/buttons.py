@@ -7,6 +7,7 @@ TXPIN = 16
 RXPIN = 17
 UARTNUM = 0
 BAUDRATE = 9600
+
 ###         PWM SETUP
 XPWM = PWM(Pin(15)) 
 YPWM = PWM(Pin(3)) 
@@ -14,14 +15,10 @@ XPWM.freq(50)
 YPWM.freq(50)
 
 ###         ENGINES MIN MAX
-# XENGINEMAX = 8500
-# XENGINEMIN = 2000
-
 YMAX =  5800
 YMID =  5000
 YMIN =  4900 
 YCURRENT = YMID
-
 
 XRIGHT  = 5200
 XSTOP   = 4800
@@ -35,11 +32,7 @@ def bts(dane):
     else:
         raise ValueError("Błąd konwersji")
 
-
-
-
 def detect_command(uart):
- 
     direction = ""
     if uart.any():
         received = uart.read()  
