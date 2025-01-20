@@ -66,11 +66,11 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
 
 
 ### Aplikacja z przyciskami 
-      - zaimportowanie modułów (część wspólna obydwu aplikacji)
+      - zaimportowanie modułów (część wspólna aplikacji)
       from machine import UART, Pin, PWM
       import time
       
-      --- Ustawienia peryferii ---
+      --- Ustawienia peryferii --- (część wspólna aplikacji)
       - UART
       TXPIN = 16
       RXPIN = 17
