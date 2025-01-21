@@ -203,11 +203,11 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
               x_byte = direction[1:5]
               y_byte = direction[7:11]
       
-                  x_val = int(x_byte.decode('utf-8'))
-                  y_val = int(y_byte.decode('utf-8'))
+              x_val = int(x_byte.decode('utf-8'))
+              y_val = int(y_byte.decode('utf-8'))
       
-                  - Ustawienie wartości PWM
-                  XPWM.duty_u16(x_val)
-                  YPWM.duty_u16(y_val)
-                  time.sleep(0.1)
+              - Ustawienie wartości PWM
+              XPWM.duty_u16(x_val)
+              YPWM.duty_u16(y_val)
+              time.sleep(0.1)
 
