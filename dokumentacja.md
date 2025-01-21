@@ -212,7 +212,9 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
               YPWM.duty_u16(y_val)
               time.sleep(0.1)
 ### Aplikacja na telefon
-- Interfejs Graficzny aplikacji
+- Interfejs Graficzny aplikacji:
+- 
 ![Gui](img/app_Gui.jpg)
 - Ustawienia akcelerometru:
+- 
 ![accelerometr setup](img/accelerometr_setup.jpg)
