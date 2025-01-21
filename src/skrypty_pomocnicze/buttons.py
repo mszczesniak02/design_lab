@@ -45,7 +45,6 @@ def main():
     uart = UART(UARTNUM, BAUDRATE )                         
     uart.init(tx=Pin(TXPIN), rx=Pin(RXPIN) )
 
-    # set initial X engine
     XPWM.duty_u16(XSTOP)
     time.sleep(0.5)
     YPWM.duty_u16(YMID)
