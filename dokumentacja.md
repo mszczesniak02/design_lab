@@ -44,13 +44,14 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
 - **GND**: GND
 
 ### Schemat połączeń układu 
+![Alt text](img/schemat_polaczenia.png)
+
 **Moduł Bluetooth HC-06:**
 - Rx → GP17
 - Tx → GP16
 - GND → GND
 - Vcc → Zewnętrzne źródło 5V
-
-
+  
 **Serwomechanizm SG90:**
 - GND → GND
 - Vcc → Zewnętrzne źródło 5V
