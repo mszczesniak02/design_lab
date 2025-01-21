@@ -10,7 +10,8 @@
 3. [Schemat połączeń](#schemat-polaczen)
 4. [Software](#Software)
    - [Aplikacja ze sterowaniem przyciskami](#aplikacja-z-przyciskami)
-   - [Aplikacja ze sterowaniem akcelerometrem](#aplikacja-z-akcelerometrem) 
+   - [Aplikacja ze sterowaniem akcelerometrem](#aplikacja-z-akcelerometrem)
+   -[Aplikacja na telefon](#aplikacja-na-telefon)
    
 
 
@@ -210,4 +211,9 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
               XPWM.duty_u16(x_val)
               YPWM.duty_u16(y_val)
               time.sleep(0.1)
-
+### Aplikacja na telefon
+- Interfejs Graficzny aplikacji
+![Gui](img/app_Gui.png)
+- Ustawienia akcelerometru
+akcelerometr wysyła ID osi oraz dane z ustawionych zakresów:
+![accelerometr setup](img/accelerometr_setup.png)
