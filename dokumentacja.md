@@ -43,7 +43,7 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
 - **Vcc**: Zewnętrzne źródło 5V
 - **GND**: GND
 
-### Schemat połączeń układu 
+## Schemat połączeń układu 
 **Moduł Bluetooth HC-06:**
 - Rx → GP17
 - Tx → GP16
