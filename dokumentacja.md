@@ -213,7 +213,7 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
               time.sleep(0.1)
 ### Aplikacja na telefon
 - Interfejs Graficzny aplikacji
-![Gui](img/app_Gui.png)
+![Gui](img/app_Gui.jpg)
 - Ustawienia akcelerometru
 akcelerometr wysyła ID osi oraz dane z ustawionych zakresów:
-![accelerometr setup](img/accelerometr_setup.png)
+![accelerometr setup](img/accelerometr_setup.jpg)
