@@ -214,6 +214,5 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
 ### Aplikacja na telefon
 - Interfejs Graficzny aplikacji
 ![Gui](img/app_Gui.jpg)
-- Ustawienia akcelerometru
-akcelerometr wysyła ID osi oraz dane z ustawionych zakresów:
+- Ustawienia akcelerometru:
 ![accelerometr setup](img/accelerometr_setup.jpg)
