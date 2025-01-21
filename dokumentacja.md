@@ -8,7 +8,7 @@
    - [SG90](#sg90)
    - [SG90-HV](#sg90-hv)
 3. [Schematy połączeń](#schematy-polaczen)
-4. Software
+4. [Software](#Software)
    - [Aplikacja ze sterowaniem przyciskami](#aplikacja-z-przyciskami)
    - [Aplikacja ze sterowaniem akcelerometrem](#aplikacja-z-akcelerometrem) 
    
