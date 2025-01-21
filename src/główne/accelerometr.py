@@ -7,6 +7,7 @@ TXPIN = 16
 RXPIN = 17
 UARTNUM = 0
 BAUDRATE = 9600
+
 ###         PWM SETUP
 XPWM = PWM(Pin(15)) 
 YPWM = PWM(Pin(3)) 
@@ -19,12 +20,10 @@ YMID =  5000
 YMIN =  4900 
 YCURRENT = YMID
 
-
 XRIGHT  = 5200
 XSTOP   = 4800
 XLEFT   = 4510
-
-        
+       
 ###       DATA CONVERSION
 def bts(dane):
     if isinstance(dane, bytes):
@@ -33,7 +32,6 @@ def bts(dane):
         raise ValueError("Błąd konwersji")
 
 def detect_command(uart):
- 
     direction = ""
     if uart.any():
         received = uart.read()
@@ -43,7 +41,6 @@ def detect_command(uart):
 
 def is_utf8(data):
     try:
-        # Sprawdzenie, czy dane można przekonwertować na UTF-8
         data.decode('utf-8')
         return True
     except UnicodeError:
@@ -58,7 +55,6 @@ def main():
     y_val_array = [0] * 100 
     index_y = 0
     
-    # set initial X engine
     XPWM.duty_u16(XSTOP)
     time.sleep(0.5)
     YPWM.duty_u16(YMID)
