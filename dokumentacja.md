@@ -11,7 +11,7 @@
 4. [Software](#Software)
    - [Aplikacja ze sterowaniem przyciskami](#aplikacja-z-przyciskami)
    - [Aplikacja ze sterowaniem akcelerometrem](#aplikacja-z-akcelerometrem)
-   -[Aplikacja na telefon](#aplikacja-na-telefon)
+   - [Aplikacja na telefon](#aplikacja-na-telefon)
    
 
 
