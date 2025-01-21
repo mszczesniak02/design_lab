@@ -7,7 +7,7 @@
    - [HC-06](#hc-06)
    - [SG90](#sg90)
    - [SG90-HV](#sg90-hv)
-3. [Schematy połączeń](#schematy-polaczen)
+3. [Schemat połączeń](#schemat-polaczen)
 4. [Software](#Software)
    - [Aplikacja ze sterowaniem przyciskami](#aplikacja-z-przyciskami)
    - [Aplikacja ze sterowaniem akcelerometrem](#aplikacja-z-akcelerometrem) 
@@ -44,7 +44,7 @@ Serwomechanizm użyty do pochylania planszy w poziomie. Zasilany jest zewnętrzn
 - **GND**: GND
 
 ### Schemat połączeń układu 
-![Alt text](img/schemat_polaczenia.png)
+![Schemat połączenia](img/schemat_polaczenia.png)
 
 **Moduł Bluetooth HC-06:**
 - Rx → GP17
